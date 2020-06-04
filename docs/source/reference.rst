@@ -31,3 +31,4 @@ Other Routines
    :maxdepth: 2
 
    reference_misc
+   reference_demos_magma
